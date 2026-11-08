@@ -1,9 +1,9 @@
 # LobbyChen
 ### 高中生全栈开发者
-### Full Stack Developer in Senoir High · go · Desktop Application
-我使用go和c/cpp开发桌面软件。
+### Full Stack Developer in Senior High
 
-Building desktop applications with go & c/cpp.
+Go语言，和桌面应用程序
+Go,DesktopApplication
 
 编写代码，为了代码之外的价值。
 Programming,for the value beyond program.
@@ -39,16 +39,23 @@ I'm committed to advancing platform-based and refined software development, and 
 
 ### 🎵 [MusicLite Cuckoo](https://github.com/LobbyChen/MusicLite)
 
-一个跨平台的离线播放器，以高度美化为特性。
-
+一个使用 Go 和 Wails v3 构建的跨平台离线音乐播放器，<br>
+强调本地播放体验、高度可定制的 UI 和完善的桌面集成。<br>
 A lightweight, cross-platform offline music player built with **Go and Wails v3**.
 
 ### 🪶 [CuckooInterface](https://github.com/LobbyChen/CuckooInterface)
 
-一个基于go的
+一个面向 Windows 电教场景的插件运行时与宿主管理平台。<br>
+采用 Go 构建核心运行时，通过 C ABI 和 CGO<br>
+实现跨语言运行时集成，提供 Python / Lua Kernel，<br>
+事件驱动插件架构和 WPF 管理界面。<br>
 
-A Windows-oriented plugin runtime and host management platform.
+A Windows-oriented plugin runtime and host management
+platform built around a Go core.
 
+Featuring cross-language runtime integration through C ABI,
+Python / Lua kernels, event-driven plugin architecture,
+and a WPF management interface.
 
 ---
 
