@@ -19,9 +19,11 @@ Programming,for the value beyond program.
 I'm committed to advancing platform-based and refined software development, and I also hope to promote basic education in information technology and engineering thinking.
 
 我深知中国大部分地区轻视信息基础教育，也深知现有的信息教育并不深入底层和工程化。<br>
-他们只是在简单的学习一门披着编程皮的思维训练。<br>
-真正的编程应当使用高级语言，培养底层思维和架构思维。<br>
-因而，我致力于推进go语言在中国基础教育领域的应用，它是一门简单而足够底层和工程化的语言。
+他们只是在简单的学习一门披着编程外表的思维训练。<br>
+真正的编程应当在具有一定算法思维后使用高级语言，而不是在算法上死磕到底。<br>
+在AI时代，真正有价值的不是代码和算法，真正有价值的是人。人可以理解架构，理解业务场景，更能理解人。<br>
+真正的编程，应当培养底层思维、架构思维和产品思维。<br>
+因而，我致力于推进go语言在中国基础教育领域的应用，它是一门简单、相对对底层抽象较少和工程化的语言。
 
 ## Tech Stack 技术栈
 
