@@ -44,6 +44,8 @@ I'm committed to advancing platform-based and refined software development, and 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=flat-square)
 ![Embedded](https://img.shields.io/badge/Embedded-Systems-00979D?style=flat-square)
 
 **Desktop Development 桌面开发**
