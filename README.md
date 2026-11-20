@@ -39,6 +39,7 @@ I'm committed to advancing platform-based and refined software development, and 
 **Backend Development 后端开发**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Embedded Systems 嵌入式系统**
 
