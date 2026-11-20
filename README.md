@@ -38,7 +38,6 @@ I'm committed to advancing platform-based and refined software development, and 
 **Backend Development 后端开发**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Development-4479A1?style=flat-square)
 
 **Embedded Systems 嵌入式系统**
 
@@ -46,7 +45,6 @@ I'm committed to advancing platform-based and refined software development, and 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded-Systems-00979D?style=flat-square)
 
 **Desktop Development 桌面开发**
 
